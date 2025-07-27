@@ -20,7 +20,7 @@ I use mostly computational methods to explore ecological and evolutionary patter
 - **Languages:** R, Quarto/Markdown, a little Python, a little bash
 - **Tools:** `tidymodels`, `ggplot2`, `terra`, `sf`, `ape`, `phytools`, Git/GitHub
 - **Practices:** version control, unit testing, reproducibility, open science, AI models
-          [![FriedaRosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FriedaRosa)](https://github.com/anuraghazra/github-readme-stats)
+- ![FriedaRosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FriedaRosa&theme=onedark&show_icons=true)
 
 
 ### 🤝 Let's connect
