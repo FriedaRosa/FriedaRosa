@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Frieda
 
+![](https://github.com/FriedaRosa/FriedaRosa/img/avatar.png)
+
 I'm a researcher with a bachelor's and master's degree in biology - both with strong focus on plants, macroecology and macroevolution. I'm working at the intersection of macroecology, macroevolution, and biogeography. 
 I use mostly computational methods to explore ecological and evolutionary patterns — from simulating species distributions to modeling phylogenetic signals, reconstructing species characteristics back to 100 million years ago, and biodiversity change over time.
 
