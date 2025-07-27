@@ -20,6 +20,8 @@ I use mostly computational methods to explore ecological and evolutionary patter
 - **Languages:** R, Quarto/Markdown, a little Python, a little bash
 - **Tools:** `tidymodels`, `ggplot2`, `terra`, `sf`, `ape`, `phytools`, Git/GitHub
 - **Practices:** version control, unit testing, reproducibility, open science, AI models
+          [![FriedaRosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FriedaRosa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🤝 Let's connect
 I'm always open to meaningful collaborations in macroecology, simulation modeling, and spatial data science.
@@ -37,6 +39,3 @@ I'm always open to meaningful collaborations in macroecology, simulation modelin
 
 Proof that even the smartest people are fully capable of saying complete and utter bullshit.  
 Thanks for evolution, Chuck — but we'll go ahead and evolve past that part.
-
-
-
