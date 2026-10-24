@@ -13,13 +13,14 @@ At the moment I am doing a PhD in Plant Systematics at Stockholm University in S
 
 
 ### 💡 Current projects
-- Trait Evolutiion: Coevolution of Spinescence and Herbivory (Souza-Ferreira et al.)
 - Biodiversity Science: European Grassland Resurvey datapaper (Haring et al.)
 - Biodiversity Science: Czech Breeding birds data paper (Ortega-Solis et al.)
 - Biodiversity Science: Frescalo sampling effort (Auffret, Arnell et al.)
 - Biodiversity Science: Occupancy-probability data paper (Grattarola et al.)
 - Phylogenomics and Biogeography: Biome evolution of Tapia savanna in Madagascar (First PhD chapter)
-- Phylogenomics and Biogeography: Forest biome evolution in Madagascar using the plant genus _Peponidium_ (Rubiaceae) as model system (Second PhD chapter)
+- Phylogenomics and Biogeography: Forest biome evolution in Madagascar using the plant genus _Peponidium_ (Rubiaceae) as model system (Third PhD chapter)
+- Phylogenomics of Vanguerieae (Second PhD chapter)
+- EcoEvolutionary Mechanistic Models explaining Biome assembly in Madagascar (Fourth PhD chapter)
 
 ### 🤝 Let's connect
 - 📫 Reach me via [email](mailto:friederike.woelke@gmail.com)
